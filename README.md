@@ -8,4 +8,4 @@ Designer &amp; Developer Frontend Technology Forum
 
 
 
-[![https://cbu01.alicdn.com/cms/upload/2015/030/384/2483030_39245877.jpg]()](http://d2forum.alibaba-inc.com/)
+[![](https://cbu01.alicdn.com/cms/upload/2015/030/384/2483030_39245877.jpg)](http://d2forum.alibaba-inc.com/)
