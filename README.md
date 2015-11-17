@@ -5,7 +5,7 @@ Designer &amp; Developer Frontend Technology Forum
 
 本仓库为 2015 年第 D2 前端技术论坛邀请函自助申请通道，和其他的通道一起为本次参会厂外同学服务。会议主要受众是前端方向的技术人员，不过一样欢迎其他技术领域的小伙伴。
 
-任何问题均可通过新建 issue 来反馈 :)
+任何问题均可通过[新建 issue ](https://github.com/FrankFang/Get-D2-2015-Ticket/issues/new)来反馈 :)
 
 [![](https://cbu01.alicdn.com/cms/upload/2015/030/384/2483030_39245877.jpg)](http://d2forum.alibaba-inc.com/)
 
