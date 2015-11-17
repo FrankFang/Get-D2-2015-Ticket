@@ -1,5 +1,7 @@
 # 第 10 届 D2 前端技术论坛
 
+[![](https://cbu01.alicdn.com/cms/upload/2015/030/384/2483030_39245877.jpg)](http://d2forum.alibaba-inc.com/)
+
 Designer &amp; Developer Frontend Technology Forum
 
 
@@ -7,7 +9,7 @@ Designer &amp; Developer Frontend Technology Forum
 
 任何问题均可通过[新建 issue ](https://github.com/FrankFang/Get-D2-2015-Ticket/issues/new)来反馈 :)
 
-[![](https://cbu01.alicdn.com/cms/upload/2015/030/384/2483030_39245877.jpg)](http://d2forum.alibaba-inc.com/)
+
 
 ## 费用
 
