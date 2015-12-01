@@ -55,5 +55,5 @@ D2 2015 票务小组将会对你提交的申请资料进行审核，如果审核
 
 ## 联系人
 
-* Gmail 发件人：（待定）
-* 非 Gmail 邮箱发件人：（待定）
+* Gmail 发件人：d2forum.alibaba@gmail.com
+* 非 Gmail 邮箱发件人：yinghang.fyh@alibaba-inc.com
